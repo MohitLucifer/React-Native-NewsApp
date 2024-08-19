@@ -23,6 +23,19 @@ The app ensures reliability with a minimal crash rate of **0.5%**, even under he
 - **Navigation**: React Navigation for tab-based navigation
 
 ### Screenshots 
+
+#### Welcome Screen
+![Welcome Screen](./4.png)
+
+#### Home Tab
+![Home Tab](./3.png)
+
+#### Saved Tab
+![Saved Tab](./2.png)  
+
+#### Search Tab
+![Search Tab](./1.png) 
+
     
 
 ### Installation and Setup
