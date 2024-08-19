@@ -25,16 +25,20 @@ The app ensures reliability with a minimal crash rate of **0.5%**, even under he
 ### Screenshots 
 
 #### Welcome Screen
-![Welcome Screen](./4.png)
+![### Screenshots
+
+#### Welcome Screen
+<img src="./assets/1.png" alt="Welcome Screen" width="300"/>
 
 #### Home Tab
-![Home Tab](./3.png)
+<img src="./assets/2.png" alt="Home Tab" width="300"/>
 
 #### Saved Tab
-![Saved Tab](./2.png)  
+<img src="./assets/3.png" alt="Saved Tab" width="300"/>
 
 #### Search Tab
-![Search Tab](./assets/1.png) 
+<img src="./assets/4.png" alt="Search Tab" width="300"/>
+
 
     
 
