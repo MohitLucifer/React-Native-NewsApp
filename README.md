@@ -34,7 +34,7 @@ The app ensures reliability with a minimal crash rate of **0.5%**, even under he
 ![Saved Tab](./2.png)  
 
 #### Search Tab
-![Search Tab](./1.png) 
+![Search Tab](./assets/1.png) 
 
     
 
